@@ -1043,7 +1043,7 @@ with blocks as demo:
                 selection_size = gr.Number(
                     visible=False,
                     label="Selection box size",
-                    value=256,
+                    value=128,
                     precision=0,
                     elem_id="selection_size",
                 )
