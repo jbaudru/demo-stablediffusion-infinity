@@ -1,6 +1,6 @@
 <img src="https://github.com/jbaudru/demo-stablediffusion-infinity/blob/master/img/logo.png?raw=true" alt="P&G logo" style="height: 50px; width:100px;"/>
 
-# Demo stablediffusion-infinity
+# Demo: Stable Diffusion Infinity
 
 Outpainting with Stable Diffusion on an infinite canvas.
 
