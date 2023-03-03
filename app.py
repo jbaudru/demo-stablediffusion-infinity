@@ -992,8 +992,8 @@ with blocks as demo:
     # title
     title = gr.Markdown(
         """
-    ![logo](img/logo.png)
-    """,
+        <img src="https://github.com/jbaudru/demo-stablediffusion-infinity/blob/master/img/logo.png?raw=true" alt="P&G logo" style="height: 50px; width:100px;"/>
+        """,
         elem_id="markdown",
     )
  
